@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <student 
+			stuid='765' 
+			username='Username203' 
+			password='Password960' 
+			cardnum='Cardnum957' 
+			mobile='Mobile012' 
+			address='Address208' 
+			fingernum='Fingernum092' 
+			grade='459' 
+			class_no='ClassNo807' 
+	  />	
+  
+</dataset>

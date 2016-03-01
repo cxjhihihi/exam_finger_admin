@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <admin 
+			Id='830' 
+			username='Username651' 
+			password='Password655' 
+			type='320' 
+	  />	
+  
+</dataset>

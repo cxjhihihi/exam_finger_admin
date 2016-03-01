@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="exam_finger_admin"
+  id="myeclipse.1456046054485"
+  context-root="/exam_finger_admin"
+  j2ee-spec="5.0"
+  archive="exam_finger_admin.war">
+  <attributes>
+    <attribute name="webrootdir" value="web" />
+  </attributes>
+</project-module>
+

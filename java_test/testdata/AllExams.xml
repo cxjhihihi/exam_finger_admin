@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <all_exams 
+			id='287' 
+			examrommid='181' 
+			examid='962' 
+			stuid='767' 
+			score='5' 
+	  />	
+  
+</dataset>

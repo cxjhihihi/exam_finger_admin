@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- DBUnit flatXml DataFile -->
+<dataset>
+
+
+	  <exam 
+			examid='632' 
+			examname='Examname691' 
+			memo='Memo936' 
+	  />	
+  
+</dataset>
