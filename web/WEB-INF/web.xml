@@ -53,7 +53,10 @@
 			<param-value>true</param-value>
 		</init-param>
 	</filter>
-
+	<filter>
+		<filter-name>loginFilter</filter-name>
+		
+	</filter>
 	<!-- FlashScope filter,在Flash中存储的数据,在下一次http请求中也可以继续引用,使用方法为Flash.current().error("存在错误"); -->
 	<filter>
 		<filter-name>FlashFilter</filter-name>
